@@ -18,7 +18,7 @@ Here are a couple of projects I'm proud of:
 
 ### 🧬 Variant Explain: RAG-based Genome condition identification
 
-[https://www.google.com/search?q=https://github.com/Hippopoto0/VariantExplain]
+[https://github.com/Hippopoto0/VariantExplain](https://github.com/Hippopoto0/VariantExplain)
 
 * Application to help users understand the implications of genetic variants using Retrieval-Augmented Generation (RAG) technology
 * Robust backend engineered with `Python and FastAPI`
