@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Dan
+# Hi there 👋 I'm Dan
 
 A software dev from the UK. I'm particularly interested in AI 🤖, MedTech 🩺 Finance 📈
 
