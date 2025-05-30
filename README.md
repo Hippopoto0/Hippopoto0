@@ -1,6 +1,8 @@
-# Hi there 👋 I'm Dan
+## Hi there 👋 I'm Dan
 
 A software dev from the UK. I'm particularly interested in AI 🤖, MedTech 🩺 Finance 📈
+
+Aside from the software space, I like a bit of tennis 🎾, reading (mostly fantasy 🐲 I'm afraid), and dabbling in music 🎸
 
 Here are a couple of projects I'm proud of:
 
